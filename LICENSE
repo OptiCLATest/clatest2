@@ -1,0 +1,155 @@
+OPTIMIZELY CONTRIBUTION LICENSE AGREEMENT
+
+This contribution license agreement (“Agreement”) is an agreement between you 
+and Optimizely North America Inc., and grants certain rights to Optimizely 
+North America Inc. and its affiliates (collectively, “Optimizely”) with respect 
+to your open-source contributions to Optimizely’s Repositories.  This Agreement 
+is effective on the date of your acceptance and is confirmed by you Submitting 
+Contributions. 
+
+1.  Definitions – (and words denoting the singular includes the plural and vice 
+versa. Defined words include their grammatical forms).
+
+“Code” means human-readable or machine-executable form.
+“Contribution” means Code Submitted by you as your work of authorship, 
+including any modifications or additions to that work, and  including any 
+documentation source, and configuration files.
+“Optimizely Code” means Code made available to you by Optimizely in a 
+Repository, or otherwise by Optimizely.
+“Repository” means any of Optimizely’s open-source libraries such as 
+https://www.optimizely.com/apps, and its multi-collaboration sites (for 
+example, https://nuget.optimizely.com, and https://github.com/episerver), and 
+such others as Optimizely makes available to you.
+“Software Service” means any software service, including platform service, of 
+Optimizely made available by Optimizely to any customer of Optimizely, and 
+under terms of use that includes licenses of open-source software, and includes 
+all consulting services of Optimizely to all such customers in relation to that 
+Software Service.
+“Submit” is the act of uploading, submitting, transmitting, or distributing 
+code or other content in relation to any Software Service, including but not 
+limited to communication on electronic mailing lists, source code control 
+systems, and issue tracking systems that are managed by, or on behalf of, the 
+Software Services for the purpose of discussing and improving that Software 
+Services, but excluding communication that is conspicuously marked or otherwise 
+designated in writing by you as “Not a Contribution”.
+
+2.  Optimizely Code
+You acknowledge that Optimizely Code available within a Repository is valuable 
+confidential information of Optimizely, and in respect of which Optimizely 
+holds the sole and (subject to the applicable open-source licenses) exclusive 
+copyright and other intellectual property rights.  You will maintain and 
+protect the confidentiality of any Optimizely Code you download, and 
+Contributions you Submit, and not disclose it or use it for any purpose not 
+contemplated by this Agreement. You will adopt appropriate safeguards in 
+protecting the confidentiality of that Optimizely Code, and Optimizely’s 
+intellectual property rights in Optimizely Code. You may only access and 
+download Optimizely Code for Contribution purposes, and for no other purpose. 
+Optimizely Code may not be shared with any other party.  You should protect 
+Optimizely Code with all appropriate security measures. 
+
+3.  Contributions
+
+Your Contributions must comply with all applicable definitions and licenses of 
+Open-Source Initiative (www.opensource.org). 
+You must agree to the terms of this Agreement before making a Contribution with 
+respect to any Software Service. 
+This Agreement covers any and all Contributions that you, now or in the future 
+(except as described in the following sections) Submit. 
+Your Contributions are subject to Optimizely’s review and approval, and may be 
+assigned to any company within the Optimizely group. 
+You shall make reasonable commercial efforts to ensure that your Contribution 
+complies with Optimizely’s then-current applicable policies, and the policies 
+of any website you use to Submit. 
+Should you wish to Submit materials that are not your original work, you may 
+Submit them separately if you (a) retain all copyright and license information 
+that was in the materials as you received them, (b) in the description 
+accompanying your Contribution, include the phrase “Contribution containing 
+materials of a third party” followed by the names of the third party and any 
+licenses or other restrictions of which you are aware, and (c) follow any other 
+instructions of Optimizely with respect to the Software Services pertinent to 
+Contributions.
+
+4.  Licenses
+
+Intellectual Property License. With respect to third party intellectual 
+property rights that are, or may be, infringed by your Contribution, you grant 
+Optimizely, and those who utilize your Contribution directly or indirectly from 
+Optimizely (including recipients of Software Services) a perpetual, worldwide, 
+non-exclusive, no-charge, royalty-free, irrevocable license to make, use, offer 
+to sell, sell, import, and otherwise transfer the Contribution (the “IP 
+License”). 
+Copyright License. Without limiting the IP License, you also grant Optimizely, 
+and those who receive the Contribution directly or indirectly from Optimizely 
+(including recipients of software distributed by Optimizely), a perpetual, 
+worldwide, non-exclusive, no-charge, royalty-free, irrevocable license in the 
+Contribution to reproduce, prepare derivative works of, publicly display, 
+publicly perform and distribute the Contribution and such derivative works, and 
+to sublicense any or all of the foregoing rights to third parties (“Copyright 
+License”).
+Third Party Claims.  If any third party institutes legal proceedings against 
+you, or Optimizely or any Optimizely customer of the Software Service, alleging 
+that your Contribution breaches that third parties’ intellectual property 
+rights, then the IP License and Copyright License with respect to that 
+Contribution shall immediately terminate upon the date of filing of such 
+litigation (or at the earlier date upon the claim is reasonably established or 
+conceded).
+Other Rights Reserved. Each party reserves all rights not expressly granted in 
+this Agreement. No additional licenses or rights whatsoever (including, without 
+limitation, any implied licenses) are granted by implication, exhaustion, 
+estoppel or otherwise.
+
+5.  Representations and Warranties
+
+You represent and warrant that each of your Contribution is entirely your 
+original work. 
+You represent and warrant that you are legally entitled to grant the above 
+licenses. You represent and warrant that each of your Contributions is entirely 
+your original work (except as you may have disclosed at the time of 
+Contribution in writing) or have secured all permissions for Optimizely’s 
+receipt and use of your Contribution. You, if employed, represent and warrant 
+that you have secured permission from your employer  to make the Contribution 
+for Optimizely’s use in cases where your Contribution is made in the course of 
+your work for your employer or your employer has intellectual property rights 
+in your Contribution by contract or applicable law. If you are accepting this 
+Agreement on behalf of your employer, you represent and warrant that you have 
+the necessary authority to bind your employer to the obligations contained in 
+this Agreement. 
+You are not expected to provide support for your Contribution, but may choose 
+to do so independently of Optimizely. 
+UNLESS REQUIRED BY APPLICABLE LAW, REPRESENTED OR WARRANTED BY YOU, OR AGREED 
+TO IN WRITING, AND EXCEPT FOR THE REPRESENTATIONS AND WARRANTIES EXPRESSLY 
+STATED IN THIS AGREEMENT, ANY SUBMISSION PROVIDED UNDER THIS AGREEMENT IS 
+PROVIDED WITHOUT WARRANTY OF ANY KIND, INCLUDING, BUT NOT LIMITED TO, ANY 
+WARRANTY OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
+
+6.  Notice
+
+You agree to notify Optimizely in writing of any facts or circumstances of 
+which you later become aware that would make your representations or warranties 
+in this Agreement inaccurate in any respect or make Optimizely subject to any 
+claim for receiving, storing or using your Contribution/s.
+
+7.  Governing Law/Jurisdiction
+
+This Agreement is governed by the laws of the New York, and the parties consent 
+to exclusive jurisdiction and venue in the federal courts sitting in New York, 
+unless no federal subject matter jurisdiction exists, in which case the parties 
+consent to exclusive jurisdiction and venue in the U.S. District Courts in the 
+Southern District of New York. The parties waive all defenses of lack of 
+personal jurisdiction and forum non-conveniens.
+
+8.  Entire Agreement/Assignment
+
+This Agreement is the entire agreement between the parties, and supersedes any 
+and all prior agreements, understandings or communications, written or oral, 
+between the parties relating to the subject matter hereof. This Agreement may 
+be assigned by Optimizely.
+
+9.  Acknowledgment and Acceptance
+
+You acknowledge and accept the terms of this Agreement by accessing Optimizely 
+managed Repositories and/or by downloading any Optimizely Code and/or uploading 
+any Contributions. Optimizely reserves its rights to contact you to confirm 
+your acceptance of this Agreement.   
+
+
